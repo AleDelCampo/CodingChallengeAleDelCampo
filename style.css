@@ -1,0 +1,87 @@
+body{
+    background-image: url(sfondo.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    border-radius: 10%;
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+    padding: 4%;
+}
+
+.LogoLim{
+    width: 200px;
+}
+
+h1{
+    margin: 1%;
+    font-style: normal;
+    color: #04DC04;
+}
+
+.row{
+    padding: 1%;
+    background-color: #04DC04;
+}
+
+.monopattini{
+    margin-top: 4%;
+    text-align: left;
+    display: block;
+}
+
+h3{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    margin: 1%;
+}
+
+p:before{
+    content: "\2192";
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.status{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ /* Rounded1 border */
+hr.rounded1{
+    border-top: 20px solid peru;
+    border-radius: 5px;
+    width: 40%;
+    margin: 0%;
+    margin-bottom: 4%;
+}
+
+ /* Rounded1 border */
+ hr.rounded2{
+    border-top: 20px solid #04DC04;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0%;
+    margin-bottom: 4%;
+ }
+
+     /* Rounded1 border */
+hr.rounded3{
+    border-top: 20px solid brown;
+    border-radius: 5px;
+    width: 20%;
+    margin: 0%;
+    margin-bottom: 4%;
+}
+
+
+
+
